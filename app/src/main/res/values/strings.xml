@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">TeaShop</string>
+    <string name="image_description">AppImage</string>
+    <string name="welcome">Welcome to our shop!</string>
+    <string name="hint_name">Enter your login</string>
+    <string name="hint_psswd">Enter your password</string>
+    <string name="button_choose_tea">Choose your tea</string>
+    <string name="warning_toast">All fields must be filled in</string>
+    <string name="default_login">Guest</string>
+    <string name="default_password">123</string>
+
+
+    <string name="hello">Hi, %s! What would you like?</string>
+    <string name="additions">What would you like to add in your %s?</string>
+    <string name="milk">Milk</string>
+    <string name="sugar">Sugar</string>
+    <string name="lemon">Lemon</string>
+    <string name="choose_drink">Choose the drink</string>
+    <string name="make_order">MakeOrder</string>
+    <string name="green_tea">Green Tea</string>
+    <string name="black_tea">Black Tea</string>
+    <string name="order">Login: %s\nPassword: %s\nDrink: %s\nTea Type: %s\n</string>
+    <string name="needAdditions">Additions: </string>
+
+    <string-array name="types_of_black_tea">
+        <item>Earl Grey</item>
+        <item>With Bergamot</item>
+        <item>Fruit Tea</item>
+    </string-array>
+
+    <string-array name="types_of_green_tea">
+        <item>Green</item>
+        <item>Red</item>
+        <item>White</item>
+    </string-array>
+</resources>
